@@ -5,7 +5,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1 className="text-3xl font-bold underline">
+    <h1 className="text-3xl font-bold underline color text-blue">
       Hello world!
     </h1>
   )
